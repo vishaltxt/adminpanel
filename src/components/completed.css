@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.manage-btn-undo{
+    color: rgba(16, 16, 16, 1);
+    font: 'Poppin';
+    font-weight: 600;
+    padding: 11px;
+    width: 130px;
+    background-color: white;
+    border-radius: 22px;
+    margin: 10px 70px 0px 0px;
+}
+.component-1{
+    position: absolute;
+    right: 5.5%;
+    top: 41%;
+    width: 40x;
+    height: 40px;
+}
+.check-1{
+    position: absolute;
+    top: 41.6%;
+    right: 5.8%;
+    width: 30px;
+    height: 30px;
+}

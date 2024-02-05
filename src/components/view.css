@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#mains{
+    background-color: rgba(242, 247, 255, 1);
+    height: 100vh;
+}
+.view-buttons{
+    float: right;
+    position: relative;
+    margin: 20px 50px 0px 0px;
+}
+.view-accept{
+    color: white;
+    border:2px solid rgba(53, 131, 246, 1);
+    background-color: rgba(53, 131, 246, 1);
+    border-radius: 24px;
+    padding: 10px;
+    width: 135px;
+    font: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+}
+.view-reject{
+    margin-left: 15px;
+    color: rgba(16, 16, 16, 1);
+    background-color: rgba(242, 247, 255, 1);
+    border: 2px solid rgba(110, 110, 110, 1);
+    padding: 10px;
+    border-radius: 24px;
+    width: 135px;
+    font: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+}
+.view-company{
+    padding-top: 50px;
+    padding-left: 55px;
+}
+.view-company-p{
+    color: rgba(110,110,110,1);
+    font: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+}
+.krinvi{
+    color: rgba(0, 0, 0, 1);
+    font: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+}
+.view-mid{
+    display: flex;
+    gap: 17%;
+    /* justify-content: space-around; */
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.view-profile{
+    display:flex;
+}
+.view-img{
+    width: 43px;
+    height: 43px;
+    border: 1px solid rgba(16, 16, 16, 1);
+    border-radius: 6px;
+    padding: 4px;
+    margin-right: 20px;
+}
+.view-cto{
+    color:rgba(0, 0, 0, 1);
+    font: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+}
+.view-experience{
+    color:rgba(110, 110, 110, 1);
+    font: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+}
+.view-intern{
+    color: rgba(16, 16, 16, 1);
+    font: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+.view-end{
+    display: flex;
+    margin-top: 50px;
+    gap: 30%;
+    margin-left: 20%;
+}
+.view-budget{
+    color: rgba(110, 110, 110, 1);
+    font: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.view-200{
+    color: rgba(15, 15, 15, 1);
+    font: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+}
+.descript{
+    color: rgba(110, 110, 110, 1);
+    font: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+}

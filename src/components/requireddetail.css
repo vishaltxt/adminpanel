@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.req-view-mid{
+    display: flex;
+    gap: 17%;
+    margin-left: 50px;
+    padding: 18px;
+}
+.req-view-end{
+    display: flex;
+    margin-top: 30px;
+    gap: 25%;
+    margin-left: 20%;
+}

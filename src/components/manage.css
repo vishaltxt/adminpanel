@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.manage-header-mid{
+    display: flex;
+    width: 97%;
+    margin: auto;
+    margin-top: 25px;
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 24px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.14);
+    padding: 16px;
+    gap: 25%;
+    justify-content:space-evenly;
+}
+.manage-work-flex{
+    display: flex;
+    margin: 5px 0px 0px 40px;
+}
+.manage-same{
+    width: 30px;
+    height: 29px;
+    margin: 0px 15px 0px 0px;
+}
+.manage-same-p{
+    margin: 0px 30px 0px 0px;
+    /* color:rgba(15, 15, 15, 1) ; */
+    font: 'Poppins';
+    font-weight: 500;
+}
+.manage-container{
+    background-color: rgba(255, 255, 255, 1);
+    width: 97%;
+    height: 73vh;
+    margin: auto;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border: 2px solid rgba(255, 255, 255, 1);
+}
+.manage-header-lower{
+    display: flex;
+    border-radius: 14px;
+    width: 96%;
+    margin: auto;
+    margin-top: 28px;
+    /* gap: 25%; */
+    justify-content: space-between;
+}
+.manage-work-flex{
+    margin: 12px 0px 0px 40px;
+}
+.manage-dev{
+    color: rgba(0, 0, 0, 1);
+    font: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    /* margin: 9px 0px 0px 4px; */
+}
+.manage-experience{
+    margin: 12px 30px 0px 0px;
+    color:rgba(110, 110, 110, 1);
+    font: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+}
+.manage-date{
+    color: rgba(16, 16, 16, 1);
+    font: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 16px;
+    width: 120px;
+    text-align: center;
+}
+.date-flex{
+    display: flex;
+}
+.bg-1{
+    background-color: rgba(230, 240, 255, 1);
+}
+.bg-2{
+    background-color: rgba(245, 245, 245, 1);
+}
+.manage-bttn{
+    color: rgba(16, 16, 16, 1);
+    font: 'Poppin';
+    font-weight: 600;
+    padding: 11px;
+    width: 130px;
+    border: 2px solid rgba(53, 131, 246, 1);
+    border-radius: 22px;
+    margin: 8px 30px 8px 0px;
+}
+.manage-bttn-1{
+    color: rgba(16, 16, 16, 1);
+    font: 'Poppin';
+    font-weight: 600;
+    padding: 11px;
+    width: 130px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 22px;
+    background-color: rgba(230, 240, 255, 1);
+    margin: 10px 70px 6px 0px;
+}
+.top{
+    margin-top: 110px;
+}
+.md{
+    margin: 12px 0px 0px 30px;
+}
+.component{
+    position: absolute;
+    right: 4.5%;
+    top: 31%;
+    width: 40x;
+    height: 40px;
+}
+.check{
+    position: absolute;
+    top: 31.6%;
+    right: 4.8%;
+    width: 30px;
+    height: 30px;
+}
+.manage-btnn{
+    color: rgba(255, 255, 255, 1);
+    font: 'Poppin';
+    font-weight: 600;
+    padding: 11px;
+    width: 130px;
+    border: 2px solid rgba(53, 131, 246, 1);
+    border-radius: 22px;
+    background-color: rgba(53, 131, 246, 1);
+    margin: 6px 30px 8px 0px;
+}

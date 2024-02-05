@@ -1,0 +1,21 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.modal-wrapper{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    opacity: 1;
+    background-color:rgba(128, 128, 128, 0.665);
+}
+.modal-container{
+    position: fixed;
+    max-width: 1000px;
+    margin: 270px 0px 0px 500px;
+    padding: 9px;
+    background-color: white;
+} */
